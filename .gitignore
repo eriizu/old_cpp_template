@@ -1,0 +1,5 @@
+a.out
+server
+*.out
+*.o
+*.a
